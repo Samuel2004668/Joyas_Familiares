@@ -93,7 +93,7 @@
                 }
                 else
                 {
-                    Console.WriteLine(">>> Primero habla con al menos 2 personas en la mansion.");
+                    Console.WriteLine(">>> Primero habla con al menos 2 personas en la mansion. <<<");
                 }
             }
             else if (opcion == "3")
@@ -102,7 +102,7 @@
             }
             else if (opcion == "0")
             {
-                Console.WriteLine("Observas la escena con calma...");
+                Console.WriteLine(">>> Observas la escena con calma... <<<");
             }
             else
             {
