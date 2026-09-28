@@ -21,11 +21,11 @@
     {
         todosLosNpcs = new Npc[8];
         todosLosNpcs[0] = new Michael();
-        todosLosNpcs[1] = new Jakov();
+        todosLosNpcs[1] = new Jakob();
         todosLosNpcs[2] = new Lucy();
         todosLosNpcs[3] = new Joseph();
         todosLosNpcs[4] = new Asistente();
-        todosLosNpcs[5] = new Ana();
+        todosLosNpcs[5] = new Anna();
         todosLosNpcs[6] = new Policia();
         todosLosNpcs[7] = new Policia2();
     }

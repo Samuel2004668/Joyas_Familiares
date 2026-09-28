@@ -1,6 +1,6 @@
-class Jakov : Npc
+class Jakob : Npc
 {
-    public Jakov() : base("Jakov", "Mansion", false, "")
+    public Jakob() : base("Jakov", "Mansion", false, "")
     {
         respuestasArray = new string[]
         {

@@ -1,6 +1,6 @@
-class Ana : Npc
+class Anna : Npc
 {
-    public Ana() : base("Ana", "Comisaria", true, "Grabaciones")
+    public Anna() : base("Ana", "Comisaria", true, "Grabaciones")
     {
         respuestasArray = new string[]
         {
