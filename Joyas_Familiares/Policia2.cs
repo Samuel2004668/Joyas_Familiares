@@ -1,10 +1,10 @@
 class Policia2 : Npc
 {
-    public Policia2() : base("Policia2", "Comisaria", true, "Cuentas Bancarias")
+    public Policia2() : base("Policia2", "Comisaria", true, "Cuentas Bancarias de los hijos responsables del crimen")
     {
         respuestasArray = new string[]
         {
-            "Estoy vigilando a la testigo. Ana no se mueve de aqui.",
+            "Estoy vigilando a la testigo. Anna no se mueve de aqui.",
             "La hija menor es la principal heredera, segun el testamento.",
             "El caso es muy reciente. Apenas tenemos reportes.",
             "Las joyas no aparecen. Ni en la mansion ni en la joyeria.",
