@@ -44,7 +44,7 @@
         Console.WriteLine("        JOYAS FAMILIARES");
         Console.WriteLine("========================================");
         Console.WriteLine();
-        Console.WriteLine("Medellin, Colombia. Ano 2000.");
+        Console.WriteLine("Medellin, Colombia. Año 2000.");
         Console.WriteLine("Un magnate joyero ha sido envenenado en su mansion.");
         Console.WriteLine("Sus cinco hijos eran los unicos en la casa esa noche.");
         Console.WriteLine("Ademas, robaron un anillo y un colgante.");
